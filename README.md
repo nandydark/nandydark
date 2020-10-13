@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on many projects.
 - 🌱 I’m currently learning new things -Because learning is my habit.
 - 👯 I’m looking to collaborate on [Thundergang's ThunderUserbot](https://github.com/Thundergang/thunderuserbot)
-- 😄 I’m helping [FugakuUserbot Community](https://github.com/DARKCYBERGANG/FUGAKU_the_userbot)
 - 💬 Ask me about any help on [Telegram](https://t.me/nandydark)
 - 📫 How to reach me: [Github](https://github.com/nandydark)
 - ⚡ Fun fact: My real name is not Nandydark.

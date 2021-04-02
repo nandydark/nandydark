@@ -5,8 +5,9 @@
 <p align="center"> <img src="https://avatars1.githubusercontent.com/u/58636468?s=460&u=c4a0745b770dd5946a7f895d7ab3543536414cd0&v=4" alt="nandydark"/p>
 
 - 🔭 I’m currently working on many projects.
-- 🌱 I’m currently learning new things -Because learning is my habit.
+- 🌱 I’m learning new things - Because learning new things is my hobby.
 - 👯 I’m looking to collaborate on [Thundergang's ThunderUserbot](https://github.com/Thundergang/thunderuserbot)
+- 🤖 I'm currently working on the many organisations.. They Are [Team Dark Phantom](https://github.com/TeamDarkPhantom), [ThunderGang](https://github.com/Thundergang), [Python Guru Dev](https://github.com/Python-Guru-Dev)
 - 💬 Ask me about any help on [Telegram](https://t.me/nandydark)
 - 📫 How to reach me: [Github](https://github.com/nandydark)
 - ⚡ Fun fact: My real name is not Nandydark.

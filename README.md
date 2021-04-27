@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on many projects.
 - 🌱 I’m learning new things - Because learning new things is my hobby.
 - 👯 I’m looking to collaborate on [Thundergang's ThunderUserbot](https://github.com/Thundergang/thunderuserbot)
-- 🤖 I'm currently working on the many organisations.. They Are [Team Dark Phantom](https://github.com/TeamDarkPhantom), [ThunderGang](https://github.com/Thundergang), [Python Guru Dev](https://github.com/Python-Guru-Dev)
+- 🤖 I'm currently working on the many organisations.. They Are [Team Dark Phantom](https://github.com/TeamDarkPhantom), [ThunderGang](https://github.com/Thundergang)
 - 💬 Ask me about any help on [Telegram](https://t.me/nandydark)
 - 📫 How to reach me: [Github](https://github.com/nandydark)
 - ⚡ Fun fact: My real name is not Nandydark.
